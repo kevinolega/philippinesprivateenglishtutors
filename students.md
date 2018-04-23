@@ -4,8 +4,6 @@ title: "Students"
 author: "Teacher Barbara"
 permalink: /students/
 ---
-
-
 ### Foreign Companies:
 
 Our Learners are from different walks of life. A significant number of them work for the following companies and organizations:
