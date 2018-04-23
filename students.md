@@ -2,7 +2,7 @@
 layout: post
 title: "Students"
 author: "Teacher Barbara"
-permalink: /contact/
+permalink: /students/
 ---
 
 
