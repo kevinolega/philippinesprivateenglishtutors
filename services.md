@@ -21,7 +21,7 @@ Group classes are held in an office setting. The venue can be your company’s m
 
 ### Test Preparation class:
 
-We offer test preparation classes for IELTS, TOEFL, and PEPT (temporarily unabailable).
+We offer test preparation classes for IELTS, TOEFL,OET and PTE (temporarily unavailable).
 
 ### Academic classes:
 
@@ -29,7 +29,7 @@ We offer tutorial classes for academic classess other than English Subjects.
 
 ### NEW: Business English:
 
-Tutor assists with English related to interviews, proposals, sales pitches and other business related topics.
+The tutor will assists with English related to preparation for interviews, creation of proposals, sales pitches and other business related topics and activities.
 
 
 ## Types of Classes:
@@ -39,5 +39,6 @@ Tutor assists with English related to interviews, proposals, sales pitches and o
 - Big group (5 or more students)
 
 **Rates:** $12 per hour per student
-(Send us your inquiries for package rates)
+[Send us your inquiries for package rates]({{ '/contact' | prepend: site.baseurl }})
+
 
