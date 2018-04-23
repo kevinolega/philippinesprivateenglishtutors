@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About"
+title: "Contact"
 author: "Kevin"
-permalink: /about/
+permalink: /contact/
 ---
 
 Send an email to [eslteachers.ph@gmail.com](mailto:eslteachers.ph@gmail.com)

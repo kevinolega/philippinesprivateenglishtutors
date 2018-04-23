@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About"
+title: "Services"
 author: "Kevin"
-permalink: /about/
+permalink: /services/
 ---
 
 We offer home tutorial, online classes, corporate classes and test preparation.
