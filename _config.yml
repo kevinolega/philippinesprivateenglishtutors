@@ -2,7 +2,7 @@
 title:          Philippines Private English Tutors
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/philippinesprivateenglishtutors"
-url:            "https://kevinolega.github.io/philippinesprivateenglishtutors/"
+url:            "http://localhost:4000/philippinesprivateenglishtutors/"
 
 # Author
 author:
