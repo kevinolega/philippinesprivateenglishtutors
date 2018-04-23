@@ -23,7 +23,12 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-h1,
+h1,{
+  color: $  #4682B4;
+  font-family: $sans-serif;
+  line-height: normal;
+}
+
 h2,
 h3,
 h4,
