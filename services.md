@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Services"
-author: "Kevin"
+author: "Teacher Barbara"
 permalink: /services/
 ---
 
