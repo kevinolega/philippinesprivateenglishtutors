@@ -56,4 +56,4 @@ Our Learners are from different walks of life. A significant number of them work
 - **Sports:** Archery Coach and Receptionists
 - **Legal:** Lawyers
 
-Mastering English communication skills is a key ingredient in professional advancement and personal growth. [Contact us to schedule your lessons]({{ '/contact' | prepend: site.baseurl }}.
+Mastering English communication skills is a key ingredient in professional advancement and personal growth. [Contact us to schedule your lessons]({{ '/contact' | prepend: site.baseurl }}}).
