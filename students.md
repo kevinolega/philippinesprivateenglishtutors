@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Students"
-author: "Teacher Barbara"
+author: "Kevin Olega"
 permalink: /students/
 ---
 ### Foreign Companies:
