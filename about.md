@@ -24,3 +24,5 @@ The communication process and the learning environment that we provide is set to
 
 
 as the communication processes and environment, we intend to empower our learners for personal reform; and to our corporate clients, achieve significant increase in the productivity of human resources for business advantage thriving on market expansion.
+
+<a href="{{ '/contact' | prepend: site.baseurl }}" class="button">HIRE A TUTOR</a>
