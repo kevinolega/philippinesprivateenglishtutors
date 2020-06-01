@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+  <div class="post-info">
+    <span>Written by</span>
+    {% if page.author %}
+        {{ page.author }}
+    {% else %}
+        {{ site.author.name }}
+    {% endif %}
+    <br>
+    <br>
+    <br>
+  </div>
+
+  
+
+  {{ content }}
+  <br>
+  <br>
+<a href="{{ '/contact' | prepend: site.baseurl }}" class="button">HIRE A TUTOR</a>
+<br>
+<br>
+<br>
+</div>
+
+<div>
+  <a href="#" class="top">Top</a>
+</div>

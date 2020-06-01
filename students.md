@@ -57,6 +57,4 @@ Our Learners are from different walks of life. A significant number of them work
 - **Legal:** Lawyers
 
 Mastering English communication skills is a key ingredient in professional advancement and personal growth. [Contact us to schedule your lessons]({{ '/contact' | prepend: site.baseurl }}}).
-
-
 <a href="{{ '/contact' | prepend: site.baseurl }}" class="button">HIRE A TUTOR</a>

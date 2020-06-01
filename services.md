@@ -42,4 +42,3 @@ The tutor will assists with English related to preparation for interviews, creat
 [Send us your inquiries for package rates]({{ '/contact' | prepend: site.baseurl }})
 
 <a href="{{ '/contact' | prepend: site.baseurl }}" class="button">HIRE A TUTOR</a>
-
