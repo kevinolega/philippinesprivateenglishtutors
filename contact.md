@@ -5,7 +5,7 @@ author: "Kevin Olega"
 permalink: /contact/
 ---
 
-Send an email to [kevinolegaservices@gmail.com](mailto:kevinolegaservices@gmail.com)
+Send an email to [kevin@olega.org](mailto:kevin@olega.org)
 
 Add me on Skype: kevinolega
 
